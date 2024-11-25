@@ -1,6 +1,9 @@
-# Getting Started with Bloghurt
+# Getting Started with Bloghurt 
+[bloghurt.com](https://bloghurt.vercel.app/login)
 
 Welcome to **Bloghurt**, an app where you can write and share your blog posts! Additionally, you can generate AI-powered summaries of your blogs using Gemini AI. This project is bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
 
 ## Prerequisites
 
